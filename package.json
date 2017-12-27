@@ -1,0 +1,19 @@
+{
+  "name": "hushforms",
+  "version": "1.0.0",
+  "description": "Form builder for end-to-end encrypted forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarcoal/hushforms.git"
+  },
+  "author": "Jared Morse <jarcoal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarcoal/hushforms/issues"
+  },
+  "homepage": "https://github.com/jarcoal/hushforms#readme"
+}
