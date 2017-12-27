@@ -4,6 +4,7 @@
   "description": "Form builder for end-to-end encrypted forms",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,6 +29,7 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-react": "^7.5.1",
     "eslint-plugin-standard": "^3.0.1",
+    "html-webpack-plugin": "^2.30.1",
     "path": "^0.12.7",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
